@@ -10,3 +10,4 @@ To run this script, you need the `qrcode` Python library. You can install it via
 pip install qrcode[pil]
 ```
 This will install both qrcode and the necessary Pillow library to handle image generation
+--------------
