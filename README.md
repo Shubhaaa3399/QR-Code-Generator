@@ -24,4 +24,5 @@ import qrcode
 data = "https://www.example.com"  # This can be any string, URL, or text you want to encode
 generate_qr_code(data, "my_qr_code.png")
 ```
-3. 
+
+**With this you can generate any qr code for the URL you want, just replace the URL in the data veriable and you are set**
